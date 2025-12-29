@@ -1,12 +1,12 @@
 export const credentials = [
   {
     id: 1,
-    email: "test@zignuts.com",
+    email: "hello@test.com",
     password: "123456",
   },
   {
     id: 2,
-    email: "practical@zignuts.com",
+    email: "mitesh@test.com",
     password: "123456",
   },
 ];
